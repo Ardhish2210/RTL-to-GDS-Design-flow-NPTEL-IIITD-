@@ -11,4 +11,3 @@ The course explains the full backend VLSI design process — from RTL (Register 
 > Notes will be updated weekly.
 
 Feel free to use and refer to these notes!
-
